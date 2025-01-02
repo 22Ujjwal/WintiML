@@ -1,5 +1,5 @@
 #make you have the below library installed
-#pip install requests beautifulsoup4
+#pip install requests beautifulsoup4 or Run over Google Colab
 #UG
 
 import requests
@@ -10,7 +10,7 @@ def scrape_documentation(url, outputFile):
     try:
         response = requests.get(url) 
     except requests.exceptions.RequestException as e:
-        print(f"Error fetching the URL, Recheck! : {e}")
+        print(f"Error fetching the provided URL, Recheck: {e}")
         return
 
     # Going through the HTML content
@@ -18,7 +18,7 @@ def scrape_documentation(url, outputFile):
 
     # Open the output file for writing
     with open(outputFile, 'w', encoding='utf-8') as file:
-        # Extract and write the main title
+        # write the extracted title
         title = soup.find('h1')
         if title:
             file.write(f"# {title.text.strip()}\n\n")
@@ -34,13 +34,13 @@ def scrape_documentation(url, outputFile):
             elif section.name == 'pre':
                 # For code snippets
                 code = section.text.strip()
-                file.write(f"    ```\n    {code}\n    ```\n\n")
+                file.write(f"    ```\n    {code}\n    ```\n\n") # helps for code writing
 
 if __name__ == "__main__":
     # Update the url to get the info
-    url = 'https://pandas.pydata.org/docs/reference/index.html'
+    url = 'https://pandas.pydata.org/docs/reference/frame.html'
     
-    # Your file will be here
+    # Your file will be freshly ready with this name
     outputFile = 'MyLibraryGuide.md'
     
     scrape_documentation(url, outputFile)
