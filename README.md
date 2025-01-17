@@ -7,8 +7,8 @@
 ## 2. [My library Documentation webscapper [creates markdown file]](https://github.com/22Ujjwal/WintiML/blob/main/MyLibWebScapper.py)
 **Works well for parsing through other websites which has mutilple sectioned data**
 
-## 3. First Agentic AI using PhiData
-**Helps find **
+## 3. First Agentic AI
+**Helps as a personal agent to using Phidata framework**
 
 
 
