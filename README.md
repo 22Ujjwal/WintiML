@@ -8,7 +8,7 @@
 **Works well for parsing through other websites which has mutilple sectioned data**
 
 ## 3. First Agentic AI
-**Helps as a personal agent to using Phidata framework using LLMs**
+**Helps as a personal Crypto agent sharing personal analysis using Phidata framework and LLMs**
 
 
 
