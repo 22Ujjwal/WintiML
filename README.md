@@ -7,10 +7,10 @@
 ## 2. [My library Documentation webscapper [creates markdown file]](https://github.com/22Ujjwal/WintiML/blob/main/MyLibWebScapper.py)
 **Works well for parsing through other websites which has mutilple sectioned data**
 
-## 3. First Agentic AI
+## 3. First Agentic AI 🦾
 **Helps as a personal Crypto agent sharing personal analysis using Phidata framework and LLMs**
 
-## 4. SaS Project I
+## 4. SaS Project I 👀
 **Learning SaS programming, implemented using PROC PYTHON**
 
 SaS is great, [also learned PROC SQL]
