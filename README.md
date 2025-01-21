@@ -10,10 +10,12 @@
 ## 3. First Agentic AI 🦾
 **Helps as a personal Crypto agent sharing personal analysis using Phidata framework and LLMs**
 
-## 4. SaS Project I 👀
-**Learning SaS programming, implemented using PROC PYTHON**
+## 4. SaS Project (Data Analyst)👀
+**Learning SaS programming, implemented using PROC SQL**
 
-SaS is great, [also learned PROC SQL]
+**SAS progamming** is great!
+
+## 5. SAS Data Predictive Model
 
 
 
