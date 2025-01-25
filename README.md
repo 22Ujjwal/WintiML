@@ -14,6 +14,7 @@
 **Learning SaS programming**, implemented using **PROC SQL**......Engineering with **SAS** is interesting!
 
 ## 5. [SAS Data Predictive Model](https://github.com/22Ujjwal/WintiML/blob/main/Program2.sas) 🧩
+This predictive model based on- Linear Regression, Logistic Regression(inlcudes odd ratios) and graph plotting of the given data set. [the program does data cleaning, manipulation, packaging for the statistical processing on the personalised data fields]
 
 
 
