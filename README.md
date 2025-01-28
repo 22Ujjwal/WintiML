@@ -16,5 +16,7 @@
 ## 5. [SAS Data Predictive Model](https://github.com/22Ujjwal/WintiML/blob/main/Program2.sas) 🧩
 This predictive model based on- Linear Regression, Logistic Regression(inlcudes odd ratios) and graph plotting of the given data set. [the program does data cleaning, manipulation, packaging for the statistical processing on the personalised data fields]
 
+## 6. Emotion and impression Analyzer
+Used Python, DeepFace, Mediapipe, OpenCV custom trained model. 
 
 
