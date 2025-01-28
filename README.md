@@ -17,6 +17,6 @@
 This predictive model based on- Linear Regression, Logistic Regression(inlcudes odd ratios) and graph plotting of the given data set. [the program does data cleaning, manipulation, packaging for the statistical processing on the personalised data fields]
 
 ## 6. Emotion and impression Analyzer
-Used Python, DeepFace, Mediapipe, OpenCV custom trained model. 
+Used Python, DeepFace, Mediapipe, OpenCV, pretrained and custom trained model. Also detects the body actions and motions is used to make a efficient results.
 
 
