@@ -16,7 +16,7 @@
 ## 5. [SAS Data Predictive Model](https://github.com/22Ujjwal/WintiML/blob/115f068956e3d437244575eaa76709fb75162ede/SASProgs/program2.sas) 🧩
 This predictive model based on- Linear Regression, Logistic Regression(inlcudes odd ratios) and graph plotting of the given data set. [the program does data cleaning, manipulation, packaging for the statistical processing on the personalised data fields]
 
-## 6. [Emotion and impression Analyzer](https://github.com/22Ujjwal/WintiML/tree/115f068956e3d437244575eaa76709fb75162ede/ComputerVision)
+## 6. [Emotion and Motion Analyzer](https://github.com/22Ujjwal/WintiML/tree/115f068956e3d437244575eaa76709fb75162ede/ComputerVision)
 Used Python, DeepFace, Mediapipe, OpenCV, pretrained and custom trained model. Also detects the body actions and motions is used to make a efficient results.
 
 ## 7. Image Classifier 📷🏷️
