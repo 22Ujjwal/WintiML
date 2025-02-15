@@ -20,6 +20,7 @@ This predictive model based on- Linear Regression, Logistic Regression(inlcudes 
 Used Python, DeepFace, Mediapipe, OpenCV, pretrained and custom trained model. Also detects the body actions and motions is used to make a efficient results.
 
 ## 7. [Image Classifier](https://github.com/22Ujjwal/WintiML/tree/main/ImageClassifier%20) 📷🏷️
+Man, this sorts is super well working to improve it *Live soon!*
 
 ## 8. AI Avatar Generator (Diffusion Models) ✨🎨
 *Creates unique avatars with state-of-the-art diffusion-based AI.*
