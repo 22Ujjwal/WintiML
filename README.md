@@ -7,7 +7,7 @@
 ## 2. [My library Documentation webscapper [creates markdown file]](https://github.com/22Ujjwal/WintiML/blob/115f068956e3d437244575eaa76709fb75162ede/WebScrapper/MyLibWebScapper.py)
 **Works well for parsing through other websites which has mutilple sectioned data**
 
-## 3. First Agentic AI 🦾
+## 3. [First Agentic AI](https://github.com/22Ujjwal/WintiML/tree/main/OpenaiAgent) 🦾
 **Helps as a personal Crypto agent sharing personal analysis using Phidata framework and LLMs**
 
 ## 4. [SAS Project (Data Science, Visualization)](https://github.com/22Ujjwal/WintiML/blob/115f068956e3d437244575eaa76709fb75162ede/SASProgs/program1.sas)👀
