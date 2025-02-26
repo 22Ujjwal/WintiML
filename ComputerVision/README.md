@@ -6,6 +6,11 @@ Step 1: Get all the files in the folder. And choose which program for CV you wan
 Step 2: make sure you have cascade file with you
 Step 3: cd into same directory as the files, and do 
 
+### For Mac OS
+
+```bash
 python3 -m venv env
 source env/bin/activate
-pyhton filename_u_wanna_run
+pip install -r requirements.txt
+pyhton filename_u_wanna_run.py
+```
