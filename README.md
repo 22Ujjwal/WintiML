@@ -2,7 +2,7 @@
 <code style="color : Greenyellow"> new project live soon! </code>
 *I have random things I keep trying and post some here*
 
-## 1. [My library Documentation webscapper [creates HTML file]](https://github.com/22Ujjwal/WintiML/blob/115f068956e3d437244575eaa76709fb75162ede/WebScrapper/MyLibWebScapperToHTML.py)
+## 1. [Documentation Webscapper [creates HTML file]](https://github.com/22Ujjwal/WintiML/blob/115f068956e3d437244575eaa76709fb75162ede/WebScrapper/MyLibWebScapperToHTML.py)
 **Fetches data from websites and present it in a structured and visually appealing format, enhancing data quality and organization**
 
 ## 2. [My library Documentation webscapper [creates markdown file]](https://github.com/22Ujjwal/WintiML/blob/115f068956e3d437244575eaa76709fb75162ede/WebScrapper/MyLibWebScapper.py)
